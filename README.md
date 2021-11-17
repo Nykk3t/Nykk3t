@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nykk3t
+- 👀 I’m interested in Minecraft, phyton, creating data-pack, plugins and mods
+- 🌱 I'm currently learning at the institute
+- 💞️ I’m looking to collaborate on NkTeam
+- 📫 How to reach me NAKK3T#5958
