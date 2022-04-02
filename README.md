@@ -2,4 +2,4 @@
 
 Соло-разработчик Пл и ботов
 
-Coding in ```[C#, Node JS, Pascal, Java,  Phyton]```
+Coding in ```[Node JS, Java,  Phyton]```
