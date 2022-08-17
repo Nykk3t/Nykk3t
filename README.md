@@ -1,5 +1,2 @@
-✈ Telegram: https://t.me/Nykk3t
-
-Соло-разработчик ```плагинов``` и ```ботов```
-
-Coding in ```[Node JS, Java,  Phyton]```
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
